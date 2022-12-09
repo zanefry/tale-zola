@@ -65,4 +65,12 @@
     margin-top: 2em;
     margin-bottom: 1.5em;
   }
+
+  ol {
+      font-weight: bold;
+  }
+
+  ol li p {
+      font-weight: normal;
+  }
 }

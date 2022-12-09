@@ -15,7 +15,7 @@ $serif-primary: 'Libre Baskerville', 'Times New Roman', Times, "Source Serif Pro
 $serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif !default;
 $sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif !default;
 $monospaced: Fantasque Sans Mono, Monaco, monospace !default;
-$code-font: 400 1.0rem/1.25 Fantasque Sans Mono, Consolas, Liberation Mono,Menlo, monospace;
+$code-font: 400 1.05rem/1.1 Fantasque Sans Mono, Consolas, Liberation Mono,Menlo, monospace;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
